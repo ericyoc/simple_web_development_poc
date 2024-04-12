@@ -1,4 +1,4 @@
-# Web Development Demonstration
+# Web Development Demo
 
 This repository showcases a web development that demonstrates fundamental basics with HTML, CSS, and JavaScript. The creation of a simple website includes sections for an introduction, skills, projects, and recommendations.
 
