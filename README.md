@@ -9,7 +9,7 @@ Quote #1: "Since web application development and mobile app development are evol
 
 Quoate #2: "We recommend educators to address security aspects in these courses (i.e., web programming, mobile programming, cyber physical systems, computer security) or update the curriculum with the addition of these courses."
 
-## Basic Static Website Implementation with Out-of-the-box (or Default) Security Controls
+## Static Website Implementation with Out-of-the-box (or Default) Security Controls
 
 The creation of a simple website consists of the following components:
 
