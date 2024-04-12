@@ -2,10 +2,12 @@
 
 This repository showcases a web development that demonstrates fundamental basics with HTML, CSS, and JavaScript. The creation of a simple website includes sections for an introduction, skills, projects, and recommendations.
 
-## Motivating Article
+## Motivating Article and Two Quoates 
 Catal, C., Ozcan, A., Donmez, E., & Kasif, A. (2022, August 5). Analysis of cyber security knowledge gaps based on cyber security body of knowledge. Education and Information Technologies, 28(2), 1809–1831. https://doi.org/10.1007/s10639-022-11261-8
 
-"Since web application development and mobile app development are evolving and new techniques and platforms are being developed day by day, the security aspects related to these technologies might not have been taught in the universities sufficiently."
+Quote #1: "Since web application development and mobile app development are evolving and new techniques and platforms are being developed day by day, the security aspects related to these technologies might not have been taught in the universities sufficiently."
+
+Quoate #2: "We recommend educators to address security aspects in these courses (i.e., web programming, mobile programming, cyber physical systems, computer security) or update the curriculum with the addition of these courses."
 
 ## Implementation Overview
 
