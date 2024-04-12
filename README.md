@@ -1,4 +1,4 @@
-# Web Development with Default Security Controls Demo
+# Web Development with Default Security Controls
 
 This repository showcases a web development that demonstrates fundamental basics with HTML, CSS, and JavaScript. The creation of a simple website includes sections for an introduction, skills, projects, and recommendations.
 
