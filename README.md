@@ -5,6 +5,8 @@ This repository showcases a web development that demonstrates fundamental basics
 ## Motivating Article
 Catal, C., Ozcan, A., Donmez, E., & Kasif, A. (2022, August 5). Analysis of cyber security knowledge gaps based on cyber security body of knowledge. Education and Information Technologies, 28(2), 1809–1831. https://doi.org/10.1007/s10639-022-11261-8
 
+"Since web application development and mobile app development are evolving and new techniques and platforms are being developed day by day, the security aspects related to these technologies might not have been taught in the universities sufficiently."
+
 ## Implementation Overview
 
 The creation of a simple website consists of the following components:
