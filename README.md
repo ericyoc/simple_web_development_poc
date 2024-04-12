@@ -1,4 +1,4 @@
-# Web Development Demo
+# Web Development with Default Security Controls Demo
 
 This repository showcases a web development that demonstrates fundamental basics with HTML, CSS, and JavaScript. The creation of a simple website includes sections for an introduction, skills, projects, and recommendations.
 
@@ -9,7 +9,7 @@ Quote #1: "Since web application development and mobile app development are evol
 
 Quoate #2: "We recommend educators to address security aspects in these courses (i.e., web programming, mobile programming, cyber physical systems, computer security) or update the curriculum with the addition of these courses."
 
-## Basic Static Website Implementation with Out-of-the-box (or default) Security Controls
+## Basic Static Website Implementation with Out-of-the-box (or Default) Security Controls
 
 The creation of a simple website consists of the following components:
 
