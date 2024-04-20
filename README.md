@@ -56,3 +56,7 @@ The simple website is styled using CSS, which is included in the `style.css` fil
 This web development demonstrates the use of HTML, CSS, and JavaScript. The webiste is both attractive and functional providing an interactive way for visitors to learn more about the developer and leave their own recommendations.
 
 Feel free to explore the code and customize the portfolio to fit your own needs and style preferences.
+
+**Disclaimer**
+This repository is intended for educational and research purposes.
+
